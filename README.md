@@ -7,8 +7,9 @@
 
 
 ### Languages & Libraries
+<p align = left>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+</p>
 
 ## 🔗 Links
 [![linked-in](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/carlos-zamora-972644105)

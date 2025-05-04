@@ -6,12 +6,15 @@
 
 
 ### Languages & Libraries
-Languages: Python, R, SQL 
+Languages: Python, R, SQL  
+
 Libraries: pandas, numpy, matplotlib, sklearn, statsmodel, scipy
 
 ## 👾 Projects
--[Diabetes Machine Learning Predictor](https://github.com/carlosjzamoras/Diabetes-Machine-Learning-Predictor)
--[Red White Wine A/B Testing](https://github.com/carlosjzamoras/A-B-Testing-Red-and-White-Wine)
+-[Diabetes Machine Learning Predictor](https://github.com/carlosjzamoras/Diabetes-Machine-Learning-Predictor)  
+
+-[Red White Wine A/B Testing](https://github.com/carlosjzamoras/A-B-Testing-Red-and-White-Wine)  
+
 -[1996 Arbitrage Model](https://github.com/carlosjzamoras/1996-Arbitrage-Model)
 
 ## 🔗 Links

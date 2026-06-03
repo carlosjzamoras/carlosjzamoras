@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Carlos Zamora, I currently work as a Transportation Planner for an engineering consulting firm. I studied mathematics with a concentration in statistics and operations research at Carnegie Mellon University, receiving my bachelor's May 2023. I am currently looking for roles that  align with my interest in statistics and optimization. 
+🎓 I am Carlos Zamora, I currently work as a Business and Supply Chain Analyst consulting firm. I studied mathematics with a concentration in statistics and operations research at Carnegie Mellon University, receiving my bachelor's May 2023. I am currently looking for roles that  align with my interest in statistics and optimization. 
 
 
 ### Languages & Libraries

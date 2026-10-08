@@ -10,7 +10,7 @@ Languages: Python, R, SQL
 
 Libraries: pandas, numpy, matplotlib, sklearn, statsmodel, scipy
 
-## 👾 Projects https://github.com/carlosjzamoras/NetworkFlowMLProject
+## 👾 Projects
 
 - [Neural Approximation of Multi Commodity Network Flow](https://github.com/carlosjzamoras/NetworkFlowMLProject)
 

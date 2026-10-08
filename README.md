@@ -10,7 +10,10 @@ Languages: Python, R, SQL
 
 Libraries: pandas, numpy, matplotlib, sklearn, statsmodel, scipy
 
-## 👾 Projects
+## 👾 Projects https://github.com/carlosjzamoras/NetworkFlowMLProject
+
+- [Neural Approximation of Multi Commodity Network Flow](https://github.com/carlosjzamoras/NetworkFlowMLProject)
+
 - [Diabetes Machine Learning Predictor](https://github.com/carlosjzamoras/Diabetes-Machine-Learning-Predictor)  
 
 - [Red White Wine A/B Testing](https://github.com/carlosjzamoras/A-B-Testing-Red-and-White-Wine)  
